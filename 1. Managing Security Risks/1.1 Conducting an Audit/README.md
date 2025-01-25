@@ -1,4 +1,4 @@
-# 1.1 Conducting an Audit
+# 1.1: Conducting an Audit
 
 ## Scenario
 
