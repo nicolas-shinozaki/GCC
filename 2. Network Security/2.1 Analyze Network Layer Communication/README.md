@@ -6,7 +6,7 @@ You are a cybersecurity analyst working at a company that specializes in providi
 
 You are tasked with analyzing the situation and determining which network protocol was affected during this incident. To start, you attempt to visit the website and you also receive the error “destination port unreachable.” To troubleshoot the issue, you load your network analyzer tool, tcpdump, and attempt to load the webpage again. To load the webpage, your browser sends a query to a DNS server via the UDP protocol to retrieve the IP address for the website's domain name; this is part of the DNS protocol. Your browser then uses this IP address as the destination IP for sending an HTTPS request to the web server to display the webpage  The analyzer shows that when you send UDP packets to the DNS server, you receive ICMP packets containing the error message: “udp port 53 unreachable.” 
 
-![tcpdump log](images/tcpdump.png)
+![tcpdump log](https://private-user-images.githubusercontent.com/192469717/406693610-f2ffd218-0d04-4815-bada-bbf82074db97.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc4NDYxNzcsIm5iZiI6MTczNzg0NTg3NywicGF0aCI6Ii8xOTI0Njk3MTcvNDA2NjkzNjEwLWYyZmZkMjE4LTBkMDQtNDgxNS1iYWRhLWJiZjgyMDc0ZGI5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyNVQyMjU3NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZTZjNTc2MjEwNzEzMWRiYmJhZGU5N2Q0NGVjZDVmNjJmMTc2YzZmMGM2M2UxMWNmMGQ0YzVhNjFjNjc3ZGZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.B2idrxJB6WUcXKpbWFkWamMilxEa4yCX8yPQ6WRUlQs)
 
 In the tcpdump log, you find the following information:
 
