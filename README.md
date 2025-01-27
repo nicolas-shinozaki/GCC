@@ -24,13 +24,18 @@ This repository is organized into the following sections:
 1. Managing Security Risks
    * Understanding and implementing strategies to identify, assess, and mitigate potential security risks to protect organizational assets.
 
-3. Network Security
+2. Network Security
+   * Covers concepts and practices to secure network infrastructure, including firewalls, intrusion detection/prevention systems, and secure communication protocols.
 
-4. Linux and SQL
+3. Linux and SQL
+   * Focuses on utilizing Linux commands for system security and writing SQL queries to manage and secure databases.
+   * Includes hands-on exercises in detecting vulnerabilities and securing systems using the command line and SQL.
 
-5. Assets, Threats, and Vulnerabilities
+4. Assets, Threats, and Vulnerabilities
+   * Highlights the identification and prioritization of critical assets, evaluation of threats, and mitigation of vulnerabilities.
 
-6. Detection and Response
+8. Detection and Response
+   * Emphasizes monitoring and responding to security incidents using tools and frameworks.
 
 ## Key Skills Demonstrated
 
