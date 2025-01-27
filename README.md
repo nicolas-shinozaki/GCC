@@ -2,6 +2,8 @@
 ## Overview
 Welcome to my Google Cybersecurity Professional Certificate repository! This repository serves as a collection of projects and assignments completed during my journey to earning the certificate. It highlights my knowledge and skills in cybersecurity concepts, tools, and practices.
 
+![certificate](https://github.com/user-attachments/files/18565347/Google.Cybersecurity.Certificate.pdf)
+
 ## About the Certificate
 The Google Cybersecurity Professional Certificate provides training in essential cybersecurity topics, including:
 
