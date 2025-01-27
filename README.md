@@ -22,7 +22,7 @@ This program equips participants with hands-on experience to prepare for roles s
 This repository is organized into the following sections:
 
 1. Managing Security Risks
-   Understanding and implementing strategies to identify, assess, and mitigate potential security risks to protect organizational assets.
+   * Understanding and implementing strategies to identify, assess, and mitigate potential security risks to protect organizational assets.
 
 3. Network Security
 
