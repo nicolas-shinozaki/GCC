@@ -59,6 +59,8 @@ Some of the key tools and technologies I worked with include:
 
 * SQL: Querying and managing databases
 
+* tcpdump: Analyze traffic log data
+
 ## How to Use This Repository
 
 Feel free to explore the projects and assignments to understand the concepts and methods used. If you're also pursuing the certificate, this repository can serve as a reference or study resource.
